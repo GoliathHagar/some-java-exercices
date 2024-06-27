@@ -5,7 +5,6 @@ import java.util.stream.Collectors;
  * @author : goliathhagar
  * @CreatedBy : IntelliJ IDEA
  * @ProjectName : VisualNuts
- * @mailto : thejuniormonteiro@outlook.com
  * @created : 1/5/23, Thursday, 6:06 PM
  **/
 public class VisualNutsExer2Alternative {
