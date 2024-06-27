@@ -6,7 +6,6 @@ import java.util.stream.Stream;
  * @author : goliathhagar
  * @CreatedBy : IntelliJ IDEA
  * @ProjectName : VisualNuts
- * @mailto : goliathhagar@outlook.com/thejuniormonteiro@outlook.com
  * @created : 1/6/23, Friday, 4:57 PM
  **/
 public class VisualNutsExer2 {
