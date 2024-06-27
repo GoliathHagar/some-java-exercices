@@ -10,7 +10,6 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author : goliathhagar
  * @CreatedBy : IntelliJ IDEA
  * @ProjectName : VisualNuts
- * @mailto : thejuniormonteiro@outlook.com
  * @created : 1/5/23, Thursday, 4:37 PM
  **/
 
