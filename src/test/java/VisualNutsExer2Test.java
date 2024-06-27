@@ -10,7 +10,6 @@ import java.util.Set;
  * @author : goliathhagar
  * @CreatedBy : IntelliJ IDEA
  * @ProjectName : VisualNuts
- * @mailto : goliathhagar@outlook.com / thejuniormonteiro@outlook.com
  * @created : 1/6/23, Friday, 5:00 PM
  **/
 class VisualNutsExer2Test {
